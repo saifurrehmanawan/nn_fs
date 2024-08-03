@@ -1,0 +1,7 @@
+re
+pickle-mixin
+gensim
+nltk
+numpy
+keras
+tensorflow
